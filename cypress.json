@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://my-vue-todos.netlify.app",
+  "defaultCommandTimeout": 16000
+}
